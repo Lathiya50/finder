@@ -40,7 +40,8 @@ export const login = async (req, res, next) => {
       .cookie("accessToken", token, {
         secure: true,
         httpOnly: true,
-        sameSite: true,
+        sameSite: "none",
+        domain: "https://finderwebapp.netlify.app",
       })
       .status(200)
       .send(info);
