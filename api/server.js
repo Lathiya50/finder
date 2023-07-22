@@ -50,5 +50,5 @@ app.use((err, req, res, next) => {
 
 app.listen(8800, () => {
   connect();
-  console.log("Backend server is running!");
+  console.log("Backend server is running on 8800!");
 });
