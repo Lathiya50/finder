@@ -1,0 +1,24 @@
+* {
+  .link {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+.pay-btn{
+  margin-top: "20px";
+  align-self: flex-end;
+    width: 100px;
+    border: none;
+    padding: 10px;
+    color: white;
+    background-color: #1dbf73;
+    cursor: pointer;
+}
+.error-msg{
+  color: red;
+}
+.valid-msg{
+  color:red;
+  margin-left: 5px;
+
+}
