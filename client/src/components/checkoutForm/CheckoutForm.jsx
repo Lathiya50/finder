@@ -58,10 +58,11 @@ const CheckoutForm = () => {
       elements,
       confirmParams: {
         // Make sure to change this to your payment completion page
-        return_url: `${import.meta.env.VITE_SUCCESS_LINK}/success`,
+        return_url: "https://finderwebapp.netlify.app/success",
+        // return_url: "http://localhost:5173/success",
       },
     });
-
+    console.log("errorororr", error);
     if (error.type === "card_error" || error.type === "validation_error") {
       setMessage(error.message);
     } else {

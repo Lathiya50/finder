@@ -18,6 +18,8 @@ import Pay from "./pages/pay/Pay";
 import Success from "./pages/success/Success";
 function App() {
   const queryClient = new QueryClient();
+  const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+  console.log("currentUser", currentUser);
   const Layout = () => {
     return (
       <div className="app">
@@ -34,14 +36,14 @@ function App() {
     {
       path: "/",
       element: <Layout />,
-      children: [
+      children: [ 
         {
           path: "/",
           element: <Home />,
         },
         {
           path: "/gigs",
-          element: <Gigs />,
+          element: currentUser ? <Gigs /> : <Home />,
         },
         {
           path: "/myGigs",
