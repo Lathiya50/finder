@@ -111,7 +111,7 @@ Finder is a sophisticated freelance marketplace platform inspired by Fiverr, bui
 
 ## 📱 Screenshots
 
-table>
+<table>
   <tr>
     <td width="50%">
       <img width="940" alt="2024-10-24_19-14" src="https://github.com/user-attachments/assets/7659b3e5-ef5f-4392-80ad-23b9c2f3e775">
