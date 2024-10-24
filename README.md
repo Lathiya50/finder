@@ -135,10 +135,17 @@ Finder is a sophisticated freelance marketplace platform inspired by Fiverr, bui
       <br />
       <p align="center">Gigs List</p>
     </td>
+  </tr>
+   <tr>
     <td width="50%">
       <img width="638" alt="2024-10-24_19-16" src="https://github.com/user-attachments/assets/a789bdeb-0e5c-47ee-aba3-6bd18a6dcac5">
       <br />
       <p align="center">Chat Interface</p>
+    </td>
+       <td width="50%">
+    <img width="938" alt="2024-10-24_19-27" src="https://github.com/user-attachments/assets/a3eee341-0981-48c8-8636-0ae5875f39a6">
+      <br />
+      <p align="center">Explore the marketplace </p>
     </td>
   </tr>
   <tr>
