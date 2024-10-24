@@ -111,7 +111,49 @@ Finder is a sophisticated freelance marketplace platform inspired by Fiverr, bui
 
 ## 📱 Screenshots
 
-[Add your application screenshots here]
+table>
+  <tr>
+    <td width="50%">
+      <img width="940" alt="2024-10-24_19-14" src="https://github.com/user-attachments/assets/7659b3e5-ef5f-4392-80ad-23b9c2f3e775">
+      <br />
+      <p align="center">Home Page</p>
+    </td>
+    <td width="50%">
+    <img width="941" alt="2024-10-24_19-14_1" src="https://github.com/user-attachments/assets/4f4fb657-5d39-418a-8e34-f041f6e455e8">
+      <br />
+      <p align="center">Category Page</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="942" alt="2024-10-24_19-18" src="https://github.com/user-attachments/assets/77b29e38-a5dc-47be-be54-895d4ddc12bf">
+      <br />
+      <p align="center">All gigs</p>
+    </td>
+     <td width="50%">
+      <img width="943" alt="2024-10-24_19-15" src="https://github.com/user-attachments/assets/3940c871-0a5f-44d8-bcab-6c809407b804">
+      <br />
+      <p align="center">Gigs List</p>
+    </td>
+    <td width="50%">
+      <img width="638" alt="2024-10-24_19-16" src="https://github.com/user-attachments/assets/a789bdeb-0e5c-47ee-aba3-6bd18a6dcac5">
+      <br />
+      <p align="center">Chat Interface</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="930" alt="2024-10-24_19-15_1" src="https://github.com/user-attachments/assets/7b85c2ac-81ef-4d1e-bd5a-cd1f9eb30bb1">
+      <br />
+      <p align="center">Orders Dashboard</p>
+    </td>
+    <td width="50%">
+      <img width="939" alt="2024-10-24_19-16_1" src="https://github.com/user-attachments/assets/c07dc1a5-be4c-4f81-b6ca-ff8304826650">
+      <br />
+      <p align="center">Message History</p>
+    </td>
+  </tr>
+</table>
 
 ## 🌟 Acknowledgments
 
