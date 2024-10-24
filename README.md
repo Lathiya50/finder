@@ -42,43 +42,6 @@ Finder is a sophisticated freelance marketplace platform inspired by Fiverr, bui
 - Payment processing
 - Review management
 
-## 🔍 Features In Detail
-
-### Authentication System
-
-- Secure JWT-based authentication
-- Cookie management
-- Password encryption
-- Session handling
-
-### Service Management
-
-- Create, read, update, delete services
-- Image upload and management
-- Category-based organization
-- Advanced filtering options
-
-### Order System
-
-- Secure payment processing
-- Order tracking
-- Order history
-- Transaction management
-
-### Communication
-
-- Real-time chat system
-- Message notifications
-- Chat history
-- File sharing capabilities
-
-### Search and Filter
-
-- Advanced search functionality
-- Multiple filter options
-- Category-based browsing
-- Sort by various parameters
-
 ## 🛠️ Tech Stack
 
 ### Frontend
