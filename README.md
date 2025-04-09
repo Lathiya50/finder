@@ -52,7 +52,6 @@ Finder is a sophisticated freelance marketplace platform inspired by Fiverr, bui
 - Axios
 - TailwindCSS
 - Stripe Integration
-- Socket.io-client
 
 ### Backend
 
@@ -63,7 +62,6 @@ Finder is a sophisticated freelance marketplace platform inspired by Fiverr, bui
 - Cookie Parser
 - Cloudinary
 - Stripe
-- Socket.io
 
 ### Development Tools
 
